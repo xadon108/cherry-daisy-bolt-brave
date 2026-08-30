@@ -1,0 +1,23 @@
+LINEA TRANSPORT — HUISSTIJL
+Versie 1.0
+
+01-Logo/          Volledig logo: beeldmerk plus woordmerk. Standaardkeuze.
+                  SVG voor drukwerk, belettering en web. PNG voor snel gebruik.
+                  primair-op-wit .... website, offertes, facturen, briefpapier
+                  op-creme .......... zachte vlakken en drukwerk
+                  inversie-op-donker  social, video, presentaties
+                  monochroom-zwart .. stempels, faxen, eenkleurendruk
+                  transparant ....... vrij plaatsbaar op eigen achtergrond
+
+02-Beeldmerk/     Alleen het icoon, zonder tekst.
+                  Voor profielfoto's, favicon, app-icoon en de cabinedeur.
+
+03-Documenten/    Huisstijlgids (PDF, 3 paginas) en de AI-instructie als tekst.
+
+WERKWIJZE VOOR AI
+Upload de PDF in de assistent en zeg:
+"Gebruik exact de huisstijl uit het bijgevoegde Linea Transport document —
+kleuren, typografie, toon en vormregels — en wijk daar nergens van af."
+
+Werkt de assistent niet met bestanden? Plak dan de inhoud van
+03-Documenten/Linea-huisstijl-AI-prompt.txt in het gesprek.
